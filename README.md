@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=paulpelykh)](https://git.io/streak-stats)
+
+[![Paul GitHub stats](https://github-readme-stats.vercel.app/api?username=paulpelykh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **paulpelykh/paulpelykh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
